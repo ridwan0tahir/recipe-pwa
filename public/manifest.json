@@ -1,0 +1,25 @@
+{
+	"id": "20560",
+	"name": "RecipeX",
+	"short_name": "RX",
+	"description": "A Recipe Web App",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#0c0b08",
+	"theme_color": "#dcca87",
+	"orientation": "portrait",
+	"icons": [
+		{
+			"purpose": "maskable",
+			"sizes": "512x512",
+			"src": "/icons/icon512_maskable.png",
+			"type": "image/png"
+		},
+		{
+			"purpose": "any",
+			"sizes": "512x512",
+			"src": "/icons/icon512_rounded.png",
+			"type": "image/png"
+		}
+	]
+}

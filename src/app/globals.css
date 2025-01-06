@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--background: 243 244 247;
+	--foreground: 50 50 50;
+	--primary: 218 165 32;
+	/* --primary: 217 177 32; */
+
+	/* dcca87 */
+	/* 0c0b08 */
+	/* daa520 */
+}
+
+.dark {
+	--background: 12 11 8;
+	--foreground: 205 205 205;
+	--primary: 220 202 135;
+}
+
+html {
+	scroll-behavior: smooth;
+}
